@@ -1,0 +1,9 @@
+@import url(../css/other.css);
+.red {
+  color: red;
+}
+
+.red-dark {
+  color: daerken(red, 20%);
+}
+/*# sourceMappingURL=style.css.map */
